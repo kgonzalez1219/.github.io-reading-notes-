@@ -3,6 +3,8 @@
 
 This is the place where I will keep all of my notes from daily readings.
 
+<img src="https://unsplash.com/photos/4r_tHA3gsUY" alt="Red Sunrise">
+
 > Ask yourself if what you're doing today is getting you closer to where you want to be tomorrow - Some dude on the internet
 
 ### Table of Contents
