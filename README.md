@@ -8,8 +8,8 @@ This is the place where I will keep all of my notes from daily readings.
 ### Table of Contents
 
 - **Day One** - [Notes](class-01.md)
-- **Day Two** 
-- **Day Three**
+- **Day Two** - [Notes](class-02.md)
+- **Day Three** - [Notes](class-03.md)
 - **Day Four**
 - **Day Five**
 - **Day Six**
