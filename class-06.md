@@ -105,6 +105,80 @@ item() returns an individual node from the list. You do this by specifying the i
 Array syntax is preffered, because it is faster.
 
 
+EWhen you have a Nodelist you can loop through each item in the collection and apply the same statements to each. This involves finding out the length of the collection and setting a counter to loop through them. 
+
+
+## Traversing the DOM
+
+When you have an element node you can select another element in relation to it using these five properties. 
+
+- parentNode
+- previousSibling/nextSibling
+- firstChild/lastChild
+
+Traversing the DOM can be difficult because some browsers add a text nde when coming across whitespace.
+
+
+## Finding/Updating Element Content
+
+When working with a textNode, you use the nodeValue property. This can be used to return the value of the textNode as well as update it. 
+
+textContent allows you to collect or update just the text that is in the containing element and its children.
+
+Theres also this thing called innerText, but we're gonna ignore that. 
+
+## Adding/Removing HTML Content
+
+The two methods for adding/removing HTML content are
+
+- innerHTML property
+- DOM Manipulation
+
+innerHTML can be used to both retrieve and replace content. To do this, store new info in a string in a variable. Select the element and set the innerHTML property to the string. 
+
+DOM manipulation targets individual nodes on the DOM Tree. 
+
+
+## Cross Site Scripting
+
+Yo, this is bad.
+
+This is when your site is opened up to attacks because of tinnerHTML Use. 
+
+
+
+## MISC>
+
+Once you have an element node you can use properties and methods to change its attributes. To do this, select the element node that carries the attribute and follow it with a dot. Then uses a method to change its attributes
+
+
+## Understanding the problem domain is the hardest part of programming.
+
+
+Learning to program has a steep learning curve. 
+The Problem Domain!!!! Dun Dun DUn!!~!!
+
+- Simple Functtionality
+- Easily explained
+- Easily understood
+
+Strip away complexity - simplify iy down to make it more manageable
+
+Writin g code becomes easier when you understand the domain. 
+
+**Understanding the problem is the most critical part of the equation**
+
+So either make it easier, or get better at understanding the problem.
+
+Do it right the first time. 
+
+
+
+
+
+
+
+
 
 
 
