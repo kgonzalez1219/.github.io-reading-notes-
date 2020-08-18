@@ -16,7 +16,7 @@ This is the place where I will keep all of my notes from daily readings.
 - **Day Seven** - [Notes](class-07.md)
 - **Day Eight**- [Notes](class-08.md)
 - **Day Nine**- [Notes](class-09.md)
-- **Day Ten**
+- **Day Ten**- [Notes](class-10.md)
 - **Day Eleven**
 - **Day Twelve**
 - **Day Thirteen**
