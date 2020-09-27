@@ -25,6 +25,7 @@ This is the place where I will keep all of my notes from daily readings.
 
 ## 301 Intermediate Software Development
 
+- **Day One** - [Notes](Responsive-web-design.md)
 
 
 ## 401 Advanced  Software Development
